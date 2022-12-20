@@ -1,11 +1,11 @@
-# README Maker
-  <img src="https://img.shields.io/badge/license-Bower-blue.svg">
+# README-maker
+  <img src="https://img.shields.io/badge/license-MIT-blue.svg">
   ## license 
   
-  This project is licensed under Bower;
+  This project is licensed under MIT;
 
   # Description
-  later
+  Not now.
 
   # Table of Contents
   * [Installaton](#installation)
@@ -15,10 +15,10 @@
   undefined
 
   # Installation
-  npm
+  via npm
   # Usage
-  type
+  type answers
   # Contribution
   me
   # Tests
-  no
+  later
