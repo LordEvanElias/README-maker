@@ -1,24 +1,27 @@
 # README-maker
   <img src="https://img.shields.io/badge/license-MIT-blue.svg">
-  ## license 
+   
+  
+  # License 
   
   This project is licensed under MIT;
-
+  
   # Description
-  Not now.
-
+  Later
+  
   # Table of Contents
   * [Installaton](#installation)
   * [Usage](#usage)
   * [Contribution](#contribution)
   * [Tests](#tests)
-  undefined
+  
+  * [Go to License](#license)
 
   # Installation
-  via npm
+  Install via npm.
   # Usage
-  type answers
+  Answer the prompts and it'll work.
   # Contribution
-  me
+  LordEvanElias
   # Tests
-  later
+  N/A.
