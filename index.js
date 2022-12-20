@@ -40,7 +40,18 @@ const questions = [
     name: "tests",
   },
 
-  { type: "list", message: "Select a license for your application.", name: "license", choices: ["None", "MIT", "APM", "AUR license", "Bower"] },
+  {
+    type: "list",
+    message: "Select a license for your application.",
+    name: "license",
+    choices: ["None", "MIT", "APM", "AUR license", "Bower"],
+  },
+
+  {
+    type: "input",
+    message: "Enter your email address.",
+    name: "email",
+  },
 ];
 
 // TODO: Create a function to write README file

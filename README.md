@@ -7,7 +7,7 @@
   This project is licensed under MIT;
   
   # Description
-  Later
+  This application will create a professional README for you based on your input.
   
   # Table of Contents
   * [Installaton](#installation)
@@ -15,13 +15,15 @@
   * [Contribution](#contribution)
   * [Tests](#tests)
   
-  * [Go to License](#license)
+  * [License](#license)
 
   # Installation
-  Install via npm.
+  Answer the questions given to you in the Terminal with as much detail as possible and this application will populate the README with your responses.
   # Usage
-  Answer the prompts and it'll work.
+  See above.
   # Contribution
-  LordEvanElias
+  Me
   # Tests
   N/A.
+  # Questions
+  ## For further questions, please contact me at evan.elias@att.net
