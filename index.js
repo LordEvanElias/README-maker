@@ -6,7 +6,7 @@ const generateMarkdown = require("./utils/generateMarkdown");
 const questions = [
   {
     type: "input",
-    message: "Enter your project title?",
+    message: "Enter your project title.",
     name: "title",
   },
 
@@ -18,13 +18,13 @@ const questions = [
 
   {
     type: "input",
-    message: "How do you install your app?",
+    message: "How do you install your application?",
     name: "installation",
   },
 
   {
     type: "input",
-    message: "How do you use your project?",
+    message: "How do you use your application?",
     name: "usage",
   },
 
