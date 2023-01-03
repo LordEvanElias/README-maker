@@ -1,13 +1,13 @@
 # README-maker
-  <img src="https://img.shields.io/badge/license-MIT-blue.svg">
+  <img src="https://img.shields.io/badge/license-None-blue.svg">
    
   
   # License 
   
-  This project is licensed under MIT;
+  This project is licensed under None;
   
   # Description
-  This application will create a professional README for you based on your input.
+  This application will generate a professional README based on answers to prompts given.
   
   # Table of Contents
   * [Installaton](#installation)
@@ -18,12 +18,12 @@
   * [License](#license)
 
   # Installation
-  Answer the questions given to you in the Terminal with as much detail as possible and this application will populate the README with your responses.
+  Download the project off of Github.
   # Usage
-  See above.
+  Type node index in the terminal. It will then prompt you with questions. Type detailed answers to the questions and it will populate the README file with the answers you submit.
   # Contribution
-  Me
+  LordEvanElias
   # Tests
-  N/A.
+  N/A
   # Questions
-  ## For further questions, please contact me at evan.elias@att.net
+  ## For more details, please contact me at elias_evan@yahoo.com
